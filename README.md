@@ -1,3 +1,4 @@
 # Dungeon-Rogue
-My first game and my first project. \n
+My first game and my first project.
+
 Das Spiel ist auf Deutsch.
